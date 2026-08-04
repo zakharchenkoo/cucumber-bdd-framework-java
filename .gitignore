@@ -1,0 +1,29 @@
+# Maven
+/target/
+
+# IntelliJ IDEA
+/.idea/
+*.iml
+*.iws
+*.ipr
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Visual Studio Code
+.vscode/
+
+# Operating systems
+.DS_Store
+Thumbs.db
+
+# Logs and reports
+*.log
+allure-results/
+allure-report/
+.allure/
+
+# Local configuration overrides
+config/app-local.properties
